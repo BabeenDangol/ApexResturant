@@ -1,4 +1,4 @@
-Get REQUEST:
+<!-- Get REQUEST: -->
 <img src="/Outputs/Apexresturant1.png"/>
 
 Post REQUEST:
