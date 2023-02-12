@@ -26,7 +26,7 @@ namespace ApexRestaurant.Api.Controllers
             var customer = await _customerService.GetById(id);
             if (customer == null)
                 return NotFound();
-            return Ok(customer);
+             return Ok(customer);
         }
 
         [HttpPost]

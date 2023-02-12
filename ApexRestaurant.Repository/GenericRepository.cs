@@ -39,7 +39,7 @@ namespace ApexRestaurant.Repository
             await DbContext.SaveChangesAsync();
         }
 
-        public async Task Delete(T entity)
+        public async Task Delete (T entity)
         {
             DbContext.Set<T>().Remove(entity);
             await DbContext.SaveChangesAsync();
