@@ -7,12 +7,7 @@ E:\BCIS\7th sem\DotNet\ApexResturant\ApexRestaurant.Api\bin\Debug\net7.0\ApexRes
 E:\BCIS\7th sem\DotNet\ApexResturant\ApexRestaurant.Api\bin\Debug\net7.0\ApexRestaurant.Api.pdb
 E:\BCIS\7th sem\DotNet\ApexResturant\ApexRestaurant.Api\bin\Debug\net7.0\Azure.Core.dll
 E:\BCIS\7th sem\DotNet\ApexResturant\ApexRestaurant.Api\bin\Debug\net7.0\Azure.Identity.dll
-E:\BCIS\7th sem\DotNet\ApexResturant\ApexRestaurant.Api\bin\Debug\net7.0\BouncyCastle.Crypto.dll
-E:\BCIS\7th sem\DotNet\ApexResturant\ApexRestaurant.Api\bin\Debug\net7.0\Google.Protobuf.dll
 E:\BCIS\7th sem\DotNet\ApexResturant\ApexRestaurant.Api\bin\Debug\net7.0\Humanizer.dll
-E:\BCIS\7th sem\DotNet\ApexResturant\ApexRestaurant.Api\bin\Debug\net7.0\K4os.Compression.LZ4.dll
-E:\BCIS\7th sem\DotNet\ApexResturant\ApexRestaurant.Api\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
-E:\BCIS\7th sem\DotNet\ApexResturant\ApexRestaurant.Api\bin\Debug\net7.0\K4os.Hash.xxHash.dll
 E:\BCIS\7th sem\DotNet\ApexResturant\ApexRestaurant.Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
 E:\BCIS\7th sem\DotNet\ApexResturant\ApexRestaurant.Api\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
 E:\BCIS\7th sem\DotNet\ApexResturant\ApexRestaurant.Api\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
@@ -22,7 +17,6 @@ E:\BCIS\7th sem\DotNet\ApexResturant\ApexRestaurant.Api\bin\Debug\net7.0\Microso
 E:\BCIS\7th sem\DotNet\ApexResturant\ApexRestaurant.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
 E:\BCIS\7th sem\DotNet\ApexResturant\ApexRestaurant.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
 E:\BCIS\7th sem\DotNet\ApexResturant\ApexRestaurant.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-E:\BCIS\7th sem\DotNet\ApexResturant\ApexRestaurant.Api\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
 E:\BCIS\7th sem\DotNet\ApexResturant\ApexRestaurant.Api\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
 E:\BCIS\7th sem\DotNet\ApexResturant\ApexRestaurant.Api\bin\Debug\net7.0\Microsoft.Identity.Client.dll
 E:\BCIS\7th sem\DotNet\ApexResturant\ApexRestaurant.Api\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
@@ -36,15 +30,7 @@ E:\BCIS\7th sem\DotNet\ApexResturant\ApexRestaurant.Api\bin\Debug\net7.0\Microso
 E:\BCIS\7th sem\DotNet\ApexResturant\ApexRestaurant.Api\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
 E:\BCIS\7th sem\DotNet\ApexResturant\ApexRestaurant.Api\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
 E:\BCIS\7th sem\DotNet\ApexResturant\ApexRestaurant.Api\bin\Debug\net7.0\Mono.TextTemplating.dll
-E:\BCIS\7th sem\DotNet\ApexResturant\ApexRestaurant.Api\bin\Debug\net7.0\MySql.Data.dll
-E:\BCIS\7th sem\DotNet\ApexResturant\ApexRestaurant.Api\bin\Debug\net7.0\Ubiety.Dns.Core.dll
-E:\BCIS\7th sem\DotNet\ApexResturant\ApexRestaurant.Api\bin\Debug\net7.0\Zstandard.Net.dll
-E:\BCIS\7th sem\DotNet\ApexResturant\ApexRestaurant.Api\bin\Debug\net7.0\MySql.Data.EntityFrameworkCore.dll
-E:\BCIS\7th sem\DotNet\ApexResturant\ApexRestaurant.Api\bin\Debug\net7.0\MySqlConnector.dll
 E:\BCIS\7th sem\DotNet\ApexResturant\ApexRestaurant.Api\bin\Debug\net7.0\Newtonsoft.Json.dll
-E:\BCIS\7th sem\DotNet\ApexResturant\ApexRestaurant.Api\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
-E:\BCIS\7th sem\DotNet\ApexResturant\ApexRestaurant.Api\bin\Debug\net7.0\Renci.SshNet.dll
-E:\BCIS\7th sem\DotNet\ApexResturant\ApexRestaurant.Api\bin\Debug\net7.0\SshNet.Security.Cryptography.dll
 E:\BCIS\7th sem\DotNet\ApexResturant\ApexRestaurant.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
 E:\BCIS\7th sem\DotNet\ApexResturant\ApexRestaurant.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 E:\BCIS\7th sem\DotNet\ApexResturant\ApexRestaurant.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -57,7 +43,6 @@ E:\BCIS\7th sem\DotNet\ApexResturant\ApexRestaurant.Api\bin\Debug\net7.0\System.
 E:\BCIS\7th sem\DotNet\ApexResturant\ApexRestaurant.Api\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
 E:\BCIS\7th sem\DotNet\ApexResturant\ApexRestaurant.Api\bin\Debug\net7.0\System.Security.Permissions.dll
 E:\BCIS\7th sem\DotNet\ApexResturant\ApexRestaurant.Api\bin\Debug\net7.0\System.Windows.Extensions.dll
-E:\BCIS\7th sem\DotNet\ApexResturant\ApexRestaurant.Api\bin\Debug\net7.0\System.Xml.XPath.XmlDocument.dll
 E:\BCIS\7th sem\DotNet\ApexResturant\ApexRestaurant.Api\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
 E:\BCIS\7th sem\DotNet\ApexResturant\ApexRestaurant.Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
 E:\BCIS\7th sem\DotNet\ApexResturant\ApexRestaurant.Api\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
